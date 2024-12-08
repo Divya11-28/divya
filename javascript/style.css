@@ -1,0 +1,63 @@
+/* Basic styling for the page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling the output container */
+#output {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Styling for the result blocks */
+.result {
+    background-color: #f9f9f9;
+    border-left: 5px solid #4CAF50;
+    margin: 10px 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+/* Styling the show answer button */
+button {
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Ensures that the answer is hidden initially */
+.hidden {
+    display: none;
+}
+
+/* Ensures that the answer is hidden initially */
+.hidden {
+    display: none;
+}
+
+/* Styling for the result blocks */
+.result {
+    background-color: #f9f9f9;
+    border-left: 5px solid #4CAF50;
+    margin: 10px 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
